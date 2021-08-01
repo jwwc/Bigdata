@@ -1,0 +1,2 @@
+本仓库为Hbase作业，主要有通过java api的访问hbase的源码，和运行结果的截图result.png
+hbase的主要源码有HBaseHelper.java定义了访问hbase的方法
