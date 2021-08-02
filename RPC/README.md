@@ -6,11 +6,11 @@ RPC为服务器端的源码
 
 Rpclient为客户端源码
 
-执行成功的截图:![success](https://github.com/jwwc/bigdata/RPC/success.png)
+执行成功截图:![success](https://github.com/jwwc/bigdata/blob/main/RPC/success.png)
 
 输入学号返回姓名
 
-执行失败截图:![fail](https://github.com/jwwc/bigdata/RPC/fail.png)
+执行失败截图:![fail](https://github.com/jwwc/bigdata/blob/main/RPC/fail.png)
 
 输入非学号返回null
 
